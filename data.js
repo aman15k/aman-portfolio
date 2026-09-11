@@ -1,9 +1,9 @@
 const portfolioData = {
   "personal": {
-    "name": "Rohan Das",
-    "title": "Full Stack Developer & DevOps Engineer",
-    "email": "rohandas.zero@gmail.com",
-    "github": "https://github.com/rd6260",
+    "name": "Aman",
+    "title": "Yamalaa Paglaa Deewana",
+    "email": "apnakyalenadena@lega.com",
+    "github": "https://github.com/mekokyapta",
     "linkedin": "https://linkedin.com",
     "about": "I build digital products that combine beautiful design with robust engineering. Passionate about creating seamless user experiences and writing clean, efficient code."
   },
