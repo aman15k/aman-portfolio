@@ -5,14 +5,14 @@ const portfolioData = {
     "email": "apnakyalenadena@lega.com",
     "github": "https://github.com/mekokyapta",
     "linkedin": "https://linkedin.com",
-    "about": "I build digital products that combine beautiful design with robust engineering. Passionate about creating seamless user experiences and writing clean, efficient code."
+    "about": "meow ghop ghop"
   },
   "skills": [
     "JavaScript", "TypeScript", "React", "Node.js", "Python", "Go", "CSS", "HTML", "UI/UX"
   ],
   "experience": [
     {
-      "role": "Senior Frontend Engineer",
+      "role": "reel dheko bhai",
       "company": "Tech Innovators",
       "duration": "2022 - Present",
       "description": "Led the frontend team in migrating a legacy monolithic application to a modern micro-frontend architecture using React and Vite. Improved performance by 40%."
